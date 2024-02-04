@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: rgb(133, 29, 29);
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+#busRoute {
+  margin: 5px 20px;
+  padding: 10px;
+}
+
+#button {
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: none;
+}
